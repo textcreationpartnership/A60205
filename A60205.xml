@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A confession of faith of James Salgado, a Spaniard, and sometimes a priest in the Church of Rome dedicated to the University of Oxford : with an account of his life and sufferings by the Romish party, since he forsook the Romish religion.</title>
+            <author>Salgado, James, fl. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60205</idno>
+            <idno type="STC">Wing S375</idno>
+            <idno type="STC">ESTC R13433</idno>
+            <idno type="EEBO-CITATION">13135590</idno>
+            <idno type="OCLC">ocm 13135590</idno>
+            <idno type="VID">97921</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97921)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 750:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A confession of faith of James Salgado, a Spaniard, and sometimes a priest in the Church of Rome dedicated to the University of Oxford : with an account of his life and sufferings by the Romish party, since he forsook the Romish religion.</title>
+                  <author>Salgado, James, fl. 1680.</author>
+               </titleStmt>
+               <extent>[4], 11, [1], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Marshall ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: James Salgado.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salgado, James, fl. 1680.</term>
+               <term>Catholic Church --  Teaching office.</term>
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Rule of faith.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97921:1"/>
+            <pb facs="tcp:97921:1" rendition="simple:additions"/>
+            <p>A CONFESSION OF FAITH OF James Salgado, A <hi>SPANIARD,</hi> and ſometimes a Prieſt in the Church of <hi>Rome.</hi> Dedicated to the Univerſity of <hi>Oxford.</hi>
+            </p>
+            <p>With an Account of his Life and Sufferings by the <hi>Ro<g ref="char:EOLhyphen"/>miſh</hi> Party, ſince he forſook the <hi>Romiſh</hi> Religion.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Marſhall,</hi> at the Bible in <hi>Newgate-ſtreet.</hi> 1681.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:97921:2"/>
+            <pb facs="tcp:97921:2"/>
+            <opener>
+               <salute> 
+                  <list>
+                     <item>To all and Singular Members of the Univerſity of <hi>OXFORD.</hi>
+                     </item>
+                     <item>To the Reverend, and moſt Excellent, Mr. <hi>Vicechancellour.</hi>
+                     </item>
+                     <item>To the Reverend and Eminent Heads of Colledges.</item>
+                     <item>And to the Worthy Fellows of the ſame.</item>
+                  </list>
+               </salute>
+               <signed>
+                  <hi>James Salgado,</hi> A <hi>Spaniard,</hi>
+               </signed>
+               <salute>wiſheth Felicity, both Temporal, and Eternal.</salute>
+            </opener>
+            <p>I Should be very Injurious to your bounty Liberally beſtow<g ref="char:EOLhyphen"/>ed upon me; O ye Men, every one famous according to his Title and Degree, unleſs according to the Old Cu<g ref="char:EOLhyphen"/>ſtom of the <hi>Romans,</hi> I ſhould Crown that Fountain with Laurel, from whence I drew Water: For 'tis a great Sign of Inhumanity, to receive a benefit, and not to return it again.</p>
+            <p>The Heliotrope muſt conform it ſelf according to the Suns motion; becauſe, as it cannot avoid it's Light, ſo it ought not to decline its influence. But this acteth ſo effectually upon it, that it is forced to turn its Head to the Courſe of the Sun.</p>
+            <p>You have relieved my Miſery, O ye Gentlemen of the Uni<g ref="char:EOLhyphen"/>verſity, and that ſo effectually, that you have invited me to a Publick acknowledgement of your benevolence toward me; which I am now willing to do, leſt by any longer delay, this good purpoſe of mine ſhould loſe its reward.</p>
+            <p>This little Book therefore I lay before your Feet, expecting what Cenſure you'll pleaſe to beſtow upon it.</p>
+            <p>You'l take my Endeavours I hope in good part, and pardon
+<pb facs="tcp:97921:3"/>this my temerity. (If taking a little pains in this exercſe, as <hi>Sylla</hi> the <hi>Roman</hi> Dictator was wont to carry a little Image of Jupiter in his boſom;) So I preſume to bear your Portraicture in my heart; and this I will do beyond the reach of all envy; and ſhall account it among the Number of the greateſt Vertues to be found guilty of ſuch a fault; neither becauſe you have done me a kindneſs therefore ſhall it be lawful for me to be un<g ref="char:EOLhyphen"/>grateful. With <hi>Cyrus</hi> therefore, favourably receive me as a genuin, and true Perſian; and do not diſdain to enlighten me with the bright raies of your further Benevolence, who deſires to borrow ſome ſplendor from your ſhadow.</p>
+            <p>Fare ye well, moſt worthy Gentlemen, and be entirely fa<g ref="char:EOLhyphen"/>vourable, to one that admires your dignities, and is,</p>
+            <closer>
+               <signed>Your Servant, James Salgado, <hi>A Converted</hi> Spaniard.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:97921:3"/>
+            <div type="confession_of_faith">
+               <head>A CONFESSION of FAITH.</head>
+               <opener>
+                  <salute>IN the Name of GOD Amen.</salute>
+               </opener>
+               <p>After I had been admitted to the Order of Prieſt-Hood, in the Church of <hi>Rome;</hi> and now perceived that I was to look after the Cure of other Mens Souls committed to my Charge, as well as my own; I very often conſider'd with my ſelf how I might ſafely enter upon the way of Salvation, and ſo provide ſalutary ſupplies, both for my ſelf and alſo for the Flock committed to my Cuſtody.</p>
+               <p>'Tis very true, that the <hi>Romaniſts</hi> debar the Common People from reading the Holy Scriptures, as from the Food of Life; but yet thoſe of the Clergy, (and that eſpecially in <hi>Spain,</hi> my Native Country,) as well as other <hi>Roman Catho<g ref="char:EOLhyphen"/>licks</hi> are wont more Religiouſly to exerciſe themſelves in Reading the Sacred Scriptures. The ſame thing happened to me alſo; and while I was Reading Gods Holy Book, I lighted upon thoſe words of the Apoſtle, 2 <hi>Tim.</hi> 3.16. <hi>All Scripture is given by Divine Inſpiration; and is profitable for Doctrine, for Reproof, for Correction, and for Inſtruction in Righteouſneſs &amp; That the Man of GOD may be perfect throughly furniſhed unto all good Works.</hi>
+               </p>
+               <p>In which Words the bleſſed Apoſtle ſeemed to me, to have drawn a <hi>Presbyter</hi> in his lively Colours; and not only to have ſhewn and preſcribed a Method of Preaching the Goſpel, but alſo to have diſcover'd the matter and Fountain from whence 'tis to be drawn; and which is more, to have open'd a way, which might bring the Man of God, that is, the Mi<g ref="char:EOLhyphen"/>miſter of CHRIST to an undoubted Conſummation.</p>
+               <p>For he mentions the Scriptures, which he acknowledgeth
+<pb n="2" facs="tcp:97921:4"/>to contain in them the whole Treaſure of Gods Divine Will; ſeeing he has both expreſſed thoſe four Fountains of Chriſti<g ref="char:EOLhyphen"/>an Morality, and alſo denounced him accurſed, whoſoever ſhall offer to Preach any other Goſpel, than that which he Preached; and withall Pronounced, Peace upon every one that walketh according to this Rule, <hi>Gal.</hi> 1.9. and 6.16.</p>
+               <p>When I had ponder'd theſe things with my ſelf, and per<g ref="char:EOLhyphen"/>ceived ſuch great and Magnificent things to have been ſpok<g ref="char:EOLhyphen"/>en by the Apoſtle, concerning the Scriptures; he being ſuch a one, as had affirmed [to the Elders of the Church of <hi>Epheſus</hi>] that he had made known unto them, the whole Counſel of GOD, <hi>Act.</hi> 20.27. and yet withall, that he ſpake nothing but what <hi>Moſes</hi> and the Prophets had ſaid be<g ref="char:EOLhyphen"/>fore him. At laſt I came to this Concluſion: That the Holy Scriptures are the only Writings wherein we may be inſtruct<g ref="char:EOLhyphen"/>ed, concerning the Method and means of our Salvation; and that out of them only we are to inſtruct the People, and to Convince the Gain ſayers.</p>
+               <p>To this Rule therefore, I applyed all thoſe Controverſial Queſtions which uſually paſt between Divines, as being ve<g ref="char:EOLhyphen"/>ry deſirous to know the Internal parts of every Profeſſion in Religion; that by this means I might the ſafer adjoyn my ſelf either to this or that party, and with a good Conſcience worſhip GOD, and his Anointed JESUS CHRIST.</p>
+               <p>And truly, I could not own any other to be the true Reli<g ref="char:EOLhyphen"/>gion which might be weighed in the Ballance of Gods Di<g ref="char:EOLhyphen"/>vine Law and the Promiſes, beſides the Reformed. Where<g ref="char:EOLhyphen"/>fore I made a Covenant with my Soul, That I would forth<g ref="char:EOLhyphen"/>with adjoyn my ſelf <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the Reformed Church, and forſake the Romiſh Idolatry, which alſo I did in France, and that in the Aſſembly of <hi>CHARENTON,</hi> and with great joy of my mind; I did there unite my ſelf to the Myſtical Bo<g ref="char:EOLhyphen"/>dy of my Saviour.</p>
+               <p>But as every Man muſt live by his own Faith, and none can be judged before Gods Tribunal, unleſs it be by his own Conſcience, there being no Mediator to intercede, betwixt
+<pb n="3" facs="tcp:97921:4"/>that and GOD. So alſo I might have been one of the Reſorm<g ref="char:EOLhyphen"/>ed Religion without making any External Profeſſion of my Faith.</p>
+               <p>Notwithſtanding becauſe of the Commands of my Friends and common Cuſtom ſo requiring; therefore I was the more willing to teſtify unto the World my intimate, and ſincere Confeſſion in theſe following particulars.</p>
+               <p>With GODS help therefore,</p>
+               <div n="1" type="part">
+                  <head>I.</head>
+                  <p>In the firſt place, I Confeſs that the Holy Scriptures are ſufficient for Salvation, and that they are the Supreme Nor<g ref="char:EOLhyphen"/>mal Judge of all Controverſies. 'Tis very true, that as GOD is the Author of the Scriptures, ſo he is likewiſe the Supreme Judge of all Controverſies; but none is to be ac<g ref="char:EOLhyphen"/>knowledged for the ſubordinate and Normal Judge of them, but the Scripture only.</p>
+                  <p>Neither is the Hereſie of the Papiſts to be admitted, who make the Church to be the Supreme Judge of Controverſies. Which Church (as they call it) whether it conſiſts in the Pope only by himſelf, or as he is joyned with a Council, or whether it Conſiſts in a Council alone without him, they have a long time doubted, and the Rea<g ref="char:EOLhyphen"/>ſon of that is this; becauſe no Scripture is of any private In<g ref="char:EOLhyphen"/>terpretation, but holy men ſpake as they were moved by the Holy Ghoſt, 2 <hi>Pet.</hi> 1.21.</p>
+                  <p>Now he beſt underſtands both the Law and the Promiſes who wrote them both; and if he ſo underſtands, then he beſt knows the ſence and meaning of them, and if ſo, then without doubt he is the Supreme Decider of all Controver<g ref="char:EOLhyphen"/>ſies, and he has left unto us his Law to be the Rule both of our Lives, of our Manners, and of our Actions.</p>
+                  <p>The Romaniſts prate againſt us here, and Object theſe two things.</p>
+                  <p>Firſt, That every one is a Pretender to the Holy Spi<g ref="char:EOLhyphen"/>rit; and,</p>
+                  <p>Secondly, That the Scriptures do Contradict one ano<g ref="char:EOLhyphen"/>ther.</p>
+                  <p>
+                     <pb n="4" facs="tcp:97921:5"/>
+But for all that, they are forced to confeſs theſe two things. Firſt, That pretence is no Preſcription to the Truth; and Secondly, That the Contradictions which they Object, are not <hi>Really</hi> ſo much as <hi>Apparent:</hi> Which alſo is evidently ſeen in the many Harmonies and Concordances that are made of the Bible.</p>
+                  <p>Howbeit, there is no doubt, but that the Church hath her ſhare alſo in this Affair; but yet ſo as that we ſtill hold, that ſhe only by her Teſtimony ſtands us in ſtead, as the Witneſs of Truth, not by her Authority as by a Law to bind our Conſciences primarily and by her own ſelf. The Power ſhe has is Subordinate, not abſolute, ſhe is Gods Servant on<g ref="char:EOLhyphen"/>ly; and upon that Account, not to regulate Gods Word, but to be regulated by it.</p>
+                  <p>So that the Pope of <hi>Rome</hi> proclaims himſelf Antichriſt by this very thing; that he exalts himſelf above all that which proceeds from GOD, as if he were not (as by Right he ought to be) a Miniſter of the Divine Command, but a Lawgiver himſelf.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>As to God, and his Attributes or properties, and alſo as to the Perſons of the Deity, there is but little difference be<g ref="char:EOLhyphen"/>tween us; and the Romaniſts, and that alſo Conſiſts rather in the modes of diſtinction, than in the formality of the things themſelves; although even under this Head that which they build well about Fundamentals, they deſtroy a<g ref="char:EOLhyphen"/>gain by their Contra-fundamentals, not only by aſcribing <hi>Dulia</hi> to Saints and Angels, and <hi>Hyperdulia</hi> to the bleſſed Virgin <hi>Mary</hi> (though that be a frivolous diſtinction) but al<g ref="char:EOLhyphen"/>ſo by their own Confeſſion, they aſcribe <hi>Latria,</hi> which be<g ref="char:EOLhyphen"/>longs to God only, even to the Wood of the Croſs.</p>
+                  <p>Now, that man the Deity of GOD himſelf, who is jea<g ref="char:EOLhyphen"/>lous over his own Honour, that aſcribes his Glory to any Creature; for God ſolemnly proteſteth that he is ſuch a one as holdeth faſt his Magnificence: For he hath ſaid, <hi>My Name is J<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>vah, and mine Honour I will not give unto another.</hi>
+                  </p>
+                  <p>
+                     <pb n="5" facs="tcp:97921:5"/>
+Of this Glory, neither <hi>Paul,</hi> or <hi>Barnabas,</hi> intimate Wit<g ref="char:EOLhyphen"/>neſſes of our Saviour, would ever partake, nor yet the Angel in the <hi>Revelation;</hi> the one profeſſing himſelf a fellow Servant of S. <hi>John,</hi> and of the Prophets; the two others protecting themſelves with this Buckler, <hi>viz.</hi> That they were men ſubject to like Paſſions with others, and ſaying, <hi>Honour God.</hi>
+                  </p>
+                  <p>Wherefore ſeeing this Honour which the Romaniſts be<g ref="char:EOLhyphen"/>ſtow upon Saints and Angels, could not be a Medium of Ab<g ref="char:EOLhyphen"/>negation, (for it could neither be Civil nor Religious) nor yet, a Medium of Participation which admits of both ex<g ref="char:EOLhyphen"/>treams, for then it would have conſtituted a partial Idolatry; therefore I concluded with my ſelf, that the Saints are to be Imitated, as St. <hi>Auſtin</hi> ſpeaks, but not adored by Us, as being utterly Ignorant of our Neceſſities. <hi>Abraham</hi> knows us not; and as for <hi>Iſrael,</hi> he is ignorant of Us, as tis <hi>Eſay</hi>—Where 'tis to be noted, that this Expreſſion <hi>knows us not,</hi> is not to be taken in the ſame ſence, as it is in S. <hi>Matthew chap.</hi> 7. <hi>verſe</hi> the 23. <hi>And then I will ſay unto them, I know you not.</hi> [as a late Jeſuit fooliſhly interprets it] For in S. <hi>Matthew</hi> 'tis ſpoken concerning the knowledge of Approbati<g ref="char:EOLhyphen"/>on, as appears by oppoſition of the contrary, <hi>Pſal.</hi> 2. <hi>v. ult. GOD knoweth the way of the Righteous,</hi> ſaith <hi>David</hi> there, that is he approves and allows of it, as he diſapproves the way of the Wicked, <hi>That ſhall Periſh,</hi> as it follows there: But in <hi>Iſaiah</hi> 'tis ſpoken concerning knowledge of ſimple Intelli<g ref="char:EOLhyphen"/>gence, or of taking notice, barely conſider'd in it ſelf as ap<g ref="char:EOLhyphen"/>pears plainly by the Text. Now there are not any things in the World hid from the ſight of God; before whoſe eyes even the darkneſs it ſelf turns to Light. Thoſe things therefore which GOD is ſaid not to know, we muſt underſtand in this ſence, that he doth not approve of them; but thoſe things which men are ſaid not to know, they are principally to be aſcribed unto the defect of the knowledge concerning their Object.</p>
+               </div>
+               <div n="3" type="part">
+                  <pb n="6" facs="tcp:97921:6"/>
+                  <head>III.</head>
+                  <p>Thirdly, As to the Nature and Office of the Mediator, I believe thus, <hi>viz.</hi> That he hath two Natures, the Divine, and the Humane, which is taken into the Perſonality of the Word, it being ſuch as cannot ſubſiſt of it ſelf, for want of a ſuppoſitality, which appertains to the Perſon, upon the Account of its aſſumption to the Quiddity of ſome other. There are not therefore in CHRIST two Perſons, or but one Nature; but in one Perſon two Natures, yet without either Compoſition or Confuſion.</p>
+                  <p>The Church of <hi>Rome</hi> errs exceedingly in this point, when ſhe affirms, that CHRISTS Body can be in many places at one time; for that Man confounds the Divine Attributes with the Humane, who aſcribe multi-preſence to a Body made in all things like unto our Body, and upon that account, <hi>Finite</hi> alſo as ours are; for a Body, whether it be glorified or whether it be as yet Subject to infirmity, is lyable to Circum<g ref="char:EOLhyphen"/>ſcription, which alſo <hi>Aquinas</hi> himſelf acknowledges, that it ſavours of a Contradiction in Adjunct, that the ſame Numeri<g ref="char:EOLhyphen"/>cal Body may be in many places at one and the ſame time.</p>
+                  <p>The Conſideration of this prevailed with me ſo far, that I could not give up my aſſent to the Doctrine of Tranſubſtan<g ref="char:EOLhyphen"/>tiation. For not to ſpeak any thing concerning this, that the very word is not fitly ſquared, and accomodated to the thing thereby ſignified; becauſe then it ſhould be called an Annihilation of the Subſtance rather than a Tranſubſtantiati<g ref="char:EOLhyphen"/>on of it; (according to the Nature of their Hypotheſis) I ſay to paſs by that, this alſo is to be conſider'd; That it is wholly founded upon the Idol of Multipreſence; which being demo<g ref="char:EOLhyphen"/>liſht, Tranſubſtantiation it ſelf preſently falls to the ground; according to that of the Poet.</p>
+                  <q>
+                     <l>If you take the Prop away,</l>
+                     <l>The Structure falleth to decay.</l>
+                  </q>
+                  <p>Moreover the perverſe Interpretation of Chriſts words as to the Inſtitution of this bleſſed Sacrament, and alſo the Mutila<g ref="char:EOLhyphen"/>tion
+<pb n="7" facs="tcp:97921:6"/>of the Inſtitution it ſelf ſeemed to me to be a great piece of Sacriledge, as well as it did to their own Pope <hi>Gelaſius;</hi> For they do not only interpret thoſe thing in a Carnal ſence, which Chriſt ſpake to the <hi>Capernaits</hi> in a Metaphorical; but alſo they take the Cup from the Laity, as though they were unwor<g ref="char:EOLhyphen"/>thy to bear in their Memory the Bloud of Chriſt that which was ſhed for the Salvation of their precious, and Immortal Souls.</p>
+                  <p>As concerning the Offices of Chriſt, I firmly hold, and Believe that he is a King, Prophet, and Prieſt: As a King he is Head of the Church, which by his Prophetick Office, he leads into all Truths by the Operation of his Holy Spirit, and which by his Prieſtly Office, he delivers from the Power of Satan, Sin, Death, and Hell, and that by ſhedding his own precious Bloud. For God redeemed the World by his own Bloud; So the Scripture teacheth us, <hi>Act.</hi> 20.28.</p>
+                  <p>Now as to theſe Offices of CHRIST, the Church of <hi>Rome</hi> errs exceedingly, by adding to this our King a Compa<g ref="char:EOLhyphen"/>nion, to wit, a Queen, the Mother of our bleſſed Saviour who notwithſtanding owns him for her Lord, in her <hi>Canti<g ref="char:EOLhyphen"/>cle.</hi> This Church alſo errs as to the Sacerdotal Office of Chriſt; when even to this very day the Prieſts offer him up, in their Idolatrous Maſs, a Sacrifice to God, for the Sins both of the quick and Dead. Seeing 'tis not only apparent out of <hi>Daniel</hi> that Sacrifices, and Oblations were to ceaſe in the Days of the <hi>Meſſiah,</hi> and that Chriſt by one Oblation of himſelf perfected for ever them that are ſanctified, [and that which is <hi>but one</hi> is <hi>indiviſible</hi>] and not only ſo, that Chriſt is the Conſummation of all of them, but it points out alſo the <hi>modus</hi> or manner of that Conſummation, namely that it was accompliſhed by that one Oblation of himſelf once for all; But alſo becauſe none can be Prieſts of the New Teſtament according to the order of <hi>Melchiſedeck</hi> but Chriſt only; be<g ref="char:EOLhyphen"/>cauſe he alone is Eternal, and by that means is contradiſtin<g ref="char:EOLhyphen"/>guiſhed from the <hi>Levitical</hi> Prieſts, which were not ſuffer'd to continue, by reaſon of Death; As to their diſtinction of
+<pb n="8" facs="tcp:97921:7"/>a bloudy and unbloudy Sacrifice, as alſo of Primary, and Secondary Prieſts; becauſe not grounded upon the Scriptures, we reject it with the ſame Facility as they propound it.</p>
+                  <p>To this Office of Chriſt it appertains, that by his merits he makes us worthy of Divine Juſtification: For all be it God, Juſtifies the ungodly, as the Apoſtles ſpeaks; yet for all that he does not Juſtifie ſuch a one as is ſimply unjuſt, but ſuch a one as is accounted Juſt in Chriſt by vertue of that ſa<g ref="char:EOLhyphen"/>tisfaction of Infinite value performed by him. Which Juſti<g ref="char:EOLhyphen"/>fication according to the tenor of the Scriptures is not imput<g ref="char:EOLhyphen"/>ed unto us for any deſert that is in us, but only upon the Account of Chriſts merits, neither is it obtained by ſuch de<g ref="char:EOLhyphen"/>ſerts, but by faith only in him who is the Propitiation for our ſins.</p>
+                  <p>Againſt this Doctrine, the Romaniſts early contended, ſaying that we are juſtified by works, by which means they confound juſtification with ſanctification: Whereas the A<g ref="char:EOLhyphen"/>poſtle ſaith, <hi>Therefore by the works of the Law, ſhall no fleſh living be juſtified,</hi> and again: <hi>That the Righteouſneſs of GOD is manifeſted to all by Faith:</hi> Yea, he directly affirms, that we are juſtified by Faith only.</p>
+                  <p>True it is, the <hi>Romaniſts</hi> themſelves grant that we are juſti<g ref="char:EOLhyphen"/>fied by Faith, but ſo as that it is by a work; which yet is falſe, becauſe the Apoſtle oppoſeth works to Faith: For this Cauſe Faith is to be lookt upon, as it is a Relation, or an Hand to apply a Plaiſter to the fore of ſin, which not by any vertue of it's own, but by Efficacy of ſome vertue apply'd to the thing it ſelf, makes us heirs of Eternal Life.</p>
+                  <p>St. <hi>James</hi> indeed ſaith, that Men are juſtified by Works, and not by Faith only: But that I may paſs by the Interpreta<g ref="char:EOLhyphen"/>tion of ſome that will have this to be underſtood of juſtifica<g ref="char:EOLhyphen"/>tion in another World; when the works of all men ſhall be ſifted, and examined: It may be ſaid, that theſe words, may and ought to be underſtood of ſuch a Faith, as is deſtitue of good Works, and which is dead without them; which ve<g ref="char:EOLhyphen"/>ry thing we alſo aſſert; when we do by no means ſeparate
+<pb n="9" facs="tcp:97921:7"/>Works from Faith, but always profeſs that Faith, is to be joyned with good Works, or in ſhort, that an Active, and working Faith, renders us juſt before Gods Tribunal. There<g ref="char:EOLhyphen"/>fore Faith only juſtifies us; but yet that Faith muſt not be alone, or ſeparated from good Works, no otherwiſe then as the Eye only ſeeth, but not the Eye that is ſeparated from the Body; and the hand only weighs any thing, but not unleſs it be joyned with the Body.</p>
+                  <p>Moreover, as juſtification is to be taken in a forinſecal ſenſe, as we have ſhewn; ſo 'tis certain, that it is wrought in an Infant, and not by parts. And therefore upon that ac<g ref="char:EOLhyphen"/>count, I rejected Purgatory; becauſe the fault being forgiven, the puniſhment ſhould be remitted alſo.</p>
+                  <p>Neither does this make any thing againſt our Propoſition, that GOD ſometimes ſends diverſe afflictions even upon juſt Perſons, for theſe are to be referred to the Category or Pre<g ref="char:EOLhyphen"/>dicament of Fatherly Corrections, rather than to that of Puniſhments. For there is no Condemnation to them that are in Chriſt Jeſus, <hi>Rom.</hi> 8.1. Neither do thoſe Fears, to which the Faithful are Subject, ſignifie ſo much a ſervile Dread, as a Filial Reverence; becauſe as we ought to work out our Salvation with ſear and trembling; So we are ſure that nothing can work together for ill to them that Love God.</p>
+                  <p>From hence flows the certainty of our Election, which be<g ref="char:EOLhyphen"/>cauſe it has more Aſſertions of it in the Church of <hi>Rome,</hi> then detractors from it, I need not much diſpute about it. Neither does the account of brevity require, that I ſhould enumerate the ſeveral queſtions of preſcience, previſion and predeſtina<g ref="char:EOLhyphen"/>tion as things formally different among themſelves; ſeeing we have a brief compendium of them, ſet down by the bleſſed Apoſtle <hi>Paul</hi> from whom any one may take it, <hi>Rom.</hi> 8.30.</p>
+                  <p>I grant indeed that Preſcience in its formal ſignification differs from Predeſtination, as a ſelection out of a Number of Multitude, does from the end, to which the Objects as conſi<g ref="char:EOLhyphen"/>der'd in themſelves, are deſtined, and deſign'd: But yet in the
+<pb n="10" facs="tcp:97921:8"/>mean while I do not admit of any foreſight of works, which may in the leaſt belong to thoſe that are foreknown, and the Eſtabliſhment of their own Salvation. For God chuſeth no man upon the account of works foreſeen, but that they may perform theſe good Works after they are choſen.</p>
+                  <p>All which things being well Conſidered, I perceive a plain diſtinction to ariſe betwixt the Church Viſible, and Inviſible; not ſo much that the Univerſal Church is to be called Inviſi<g ref="char:EOLhyphen"/>ble from its outward non-appearance to Men; but from the internal qualities of it; becauſe though many belong to the outward Communion; yet God only knows who are his. And from hence I concluded, that it was an eaſie matter for me to give an anſwer to that famous Objection of the Pa<g ref="char:EOLhyphen"/>piſts: Where was the Reformed Church before <hi>Luthers</hi> and <hi>Calvins</hi> time? Namely that it was diſperſt over the whole World, in every Nation, and in every Profeſſion of Chriſti<g ref="char:EOLhyphen"/>ans: And although it did not appear outwardly in the ſight of men as it did not in <hi>Elijahs</hi> time, who thought himſelf the only man alive, that remained of all the Faithful, yet at the ſame time it was in the world, like Wheat in a good quantity of Chaff, or as the Lilly among the Thorns. For Prote<g ref="char:EOLhyphen"/>ſtants are not of the ſame Opinon as Donatiſts were of old, that the Church can be confined to any one Corner of the World, as they ſaid it was to <hi>Africa;</hi> but that it is diffuſed every where throughout the whole World; becauſe GOD in e<g ref="char:EOLhyphen"/>very Nation, has thoſe that are his.</p>
+                  <p>Neither are we ſo cruel, as to reject even the <hi>Papiſts</hi> them<g ref="char:EOLhyphen"/>ſelves [though not as ſuch] from the Communion of the Church; ſeeing we know very well, that though their Church is not a Church in moral ſence: yet in a Phyſical, or Natural one it is, that is to ſay, though ſhe be not a good, yet ſhe is a true Church.</p>
+                  <p>Neither do we deny her a paſtoral Office which belongs to Ordination of Miniſters, or Adminiſtration of the Holy Sacraments: A Wife does not loſe the Title and Denom<g ref="char:EOLhyphen"/>nation of a true Wiſe, although ſhe be diſhoneſt. Now the
+<pb n="11" facs="tcp:97921:8"/>Church in a Myſtical ſenſe is compared to a married Wo<g ref="char:EOLhyphen"/>man. For this cauſe, ſeeing I found the true Church to con<g ref="char:EOLhyphen"/>ſiſt only amongſt thoſe of the Reformed Religion; and that from thoſe very Notes which are commonly attributed unto ſuch a Church, <hi>viz.</hi> from the purity of Preaching Gods Word, and a due adminiſtration of the Sacraments, although <hi>Bellarmine</hi> has fifteen other marks more or leſs; I reſolved with my ſelf, as I did intend before to joyn my ſelf to this Body; and have renounced the Romiſh Conſpiracie; to be<g ref="char:EOLhyphen"/>take my ſelf to the true Doctrine of Chriſt.</p>
+                  <p>Which now I do here ſincerely, and Faithfully profeſs be<g ref="char:EOLhyphen"/>fore GOD and Jeſus Chriſt; and do moſt earneſtly beſeech all my Brethren that they would embrace the ſame Opinion with me, and believe this my confeſſion and that they would receive me as a living Member of our Saviours Body; and that they would alſo add ſome comfort, to one that earneſt<g ref="char:EOLhyphen"/>ly longeth for the Salvation of his Soul; that they wouldem<g ref="char:EOLhyphen"/>brace me in their Arms, and receive me into their Boſom, who have fervently deſired with many Prayers, to enter into the ſame Covenant with the Faithful.</p>
+                  <p>
+                     <hi>And now O God who haſt been pleaſed to illuminate me by thine Infinite Grace, be pleaſed alſo to continue me in the ſame; that as I have now made a ſincere Profeſſion of thy Truth ſo I may remain ſtedfaſt therein, and never turn away mine Eye from thy truth: Grant that with Holy</hi> David <hi>in thy Light I may ſee Light; and at laſt having finiſhed my Courſe, (and kept the Faith) I may behold thee in thy Heavenly Kingdom; Even ſo come Lord Jeſus, come quickly. To thy ſelf with the Father, and the Holy Ghoſt, be all Praiſe, and Glory, World without End,</hi> Amen.</p>
+                  <closer>
+                     <signed>James Salgado, <hi>A</hi> Spaniard <hi>and ſometimes Prieſt of the Church of</hi> Rome.</signed>
+                  </closer>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+            <div type="account">
+               <pb facs="tcp:97921:9"/>
+               <pb n="1" facs="tcp:97921:9"/>
+               <head>AN ACCOUNT OF MY LIFE &amp; SUFFERINGS, Since I forſook the <hi>ROMISH-RELIGION;</hi> IN A Letter to Dr. <hi>H.S.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>AT your requeſt I ſhall add to my former Con<g ref="char:EOLhyphen"/>feſſion an account by what ſteps I was in<g ref="char:EOLhyphen"/>duced to forſake Popery, and withall ſome ſmall Story of my Life, and Troubles for the Reformed Religion.</p>
+               <p>The firſt thing that ſtartled me, and made me with<g ref="char:EOLhyphen"/>draw from the Covent, in which I had lived in Prieſts Orders three years, was the diſſention betwixt the Popiſh Doctors themſelves, and that in ſuch things as themſelves ſay Salvation depends upon: for whilſt ſome of them make it neceſſary to Salvation to belive that the Church is (infallibly) govern'd by
+<pb n="2" facs="tcp:97921:10"/>the Holy Ghoſt, and therefore the ultimate Reſolu<g ref="char:EOLhyphen"/>tion of Faith muſt be the Determinations of the Church: I found others did doubt of this and diſpute againſt it.</p>
+               <p>Whilſt I was thus laying things together in my mind, &amp; under great diſſatisfaction, I reſolved to leave <hi>Spain</hi> (my Native Country) and go into <hi>France</hi> where I hoped for greater freedom of ſpeech: for at home I found it was dangerous to move any thing (how modeſtly ſoover) againſt received Points. Coming then to <hi>Paris,</hi> I had many hot Diſputes with thoſe of my own Order, with as little ſatisfa<g ref="char:EOLhyphen"/>ction, as in <hi>Spain.</hi> But at laſt I betook my ſelf to ſome of the Miniſters of the Church at <hi>Charentin,</hi> by whom I was very Chriſtianly entertained, and a<g ref="char:EOLhyphen"/>mongſt them the Reverend Monſieur <hi>Drelincourt,</hi> took great pains to anſwer my doubts, and I came forward to cloſe with the Truths of the Reformed Re<g ref="char:EOLhyphen"/>ligion, and he was concern'd for my ſafety, and adviſed me fourthwith to go into the <hi>United-Provinces:</hi> But firſt I had in their Conſiſtory renounced Popery, <hi>viz. anno,</hi> 1666.</p>
+               <p>When I was come to the <hi>Hague,</hi> I had a moſt cour<g ref="char:EOLhyphen"/>teous reception by that Excellent Perſon Monſieur <hi>Samuel Maretz:</hi> he uſed his endeavour to ſettle me there, and for my livelihood put me upon the teach<g ref="char:EOLhyphen"/>ing the Spaniſh Tongue: But when that could not ſucceed, becauſe of my ignorance of the Durch Language, (though I was well enough able to teach thoſe that underſtood <hi>Latin, French,</hi> or <hi>Italian</hi>) he gave me advice to return to <hi>Paris.</hi>
+               </p>
+               <p>There I was forced to lye privately amongſt the
+<pb n="3" facs="tcp:97921:10"/>Members of the Reformed Church, being afraid to be known to others: But the Queen of <hi>France,</hi> a <hi>Spaniard</hi> by Birth, had brought over with her ma<g ref="char:EOLhyphen"/>ny of her Country-men, who too well knew me, and narrowly enquired after me. By their means I was taken, ſent back into <hi>Spain,</hi> put into the <hi>Inquiſition</hi> in the Province of <hi>Eſtremadura,</hi> and the City of <hi>Cla<g ref="char:EOLhyphen"/>rena:</hi> there I lay a year, and was monthly examined, but at laſt made an eſcape.</p>
+               <p>When I had gone almoſt a hundred Leagues, as far as <hi>Origuela,</hi> I was laid hold on by the Fryers of my own Order, and ſent by them to <hi>Murcia,</hi> where I lay five years in Priſon, having neither Books, nor Society, except of tormenting Prieſts.</p>
+               <p>I was at laſt brought before the Biſhop, and o<g ref="char:EOLhyphen"/>ther Officers of his Court, where for the Scandal, as they call'd it, I had given, I was ſentenced to the Galleys. When they had publickly read my Crime, during which time they made me hold a Black-Can<g ref="char:EOLhyphen"/>dle in my Hand, the Sentence was executed upon me.</p>
+               <p>In the Galleys, for a years ſpace, I endured the miſeries that attend Slaves at the Oar, Chains, Nakedneſs, Stripes, Thirſt Hunger, Vermine, and Sick<g ref="char:EOLhyphen"/>neſs, which they termed a Leproſie, till at length the Chyrurgion and other Officers of the Galley where I was, interceded with the Inquiſitor-General for me, as a perſon not only uſeleſs, but noyſome to thom and the other Slaves. He hereupon ſent me into the Hoſpital at <hi>Murcia;</hi> after my Cure, I ſtayed ſome months, in the Covent, but never returned to my Habit, becauſe my Impenitence, as they termed it, hindered my Abſolution.</p>
+               <p>
+                  <pb n="4" facs="tcp:97921:11"/>
+From thence I made a ſecond eſcape into <hi>France,</hi> and after I had ſtayed about a year at <hi>Lion,</hi> not find<g ref="char:EOLhyphen"/>ing my ſelf ſafe, I came into <hi>England:</hi> what aſſi<g ref="char:EOLhyphen"/>ſtance I have had here both to eſtabliſh me in the Re<g ref="char:EOLhyphen"/>formed Religion, and for my ſubſiſtance you well know. Other paſſages Hiſtorical which are in my Confeſſion I here omit; Likewiſe what thoughts it pleaſed God to comfort me with, in my diſtreſſes, what temptations I endured, and how through the Grace of God, I overcame them, I cannot in the narrow room of this Leaf ſet down; neither had thus much of me ever come in Print, but at your requeſt: and if any doubt be made of theſe things, you, or any o<g ref="char:EOLhyphen"/>thers, that have Correſpondent about <hi>Murcia,</hi> may pleaſe to ſatisfie your ſelves as to a conſidera<g ref="char:EOLhyphen"/>ble part of them: To that then I refer you, and am, Sir,</p>
+               <closer>
+                  <signed>Yours James Salgado.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
